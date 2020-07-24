@@ -1,0 +1,14 @@
+name: ZQCloudInventory
+main: cn.yzq25.cloudinventory.CloudInventoryMain
+version: "1.0.0"
+api: ["1.0.0"]
+load: POSTWORLD
+
+author: Yanziqing25
+description: 云背包插件
+website: http://www.yzq25.cn
+
+softdepend:
+- ZQExtension
+depend:
+- ZQExtension
